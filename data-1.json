@@ -1,0 +1,8 @@
+{
+  "deviceID": "abc-123",
+  "deviceType": "sensor",
+  "timestamp": 1604448000000,
+  "location": "USA/NewYork/Manhattan/FactoryA/Section1",
+  "operationStatus": "active",
+  "temp": 23.5
+}
